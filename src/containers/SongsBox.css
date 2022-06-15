@@ -1,0 +1,7 @@
+.main-container {
+    list-style: none;
+    border: 2px solid black;
+    margin: auto;  
+    padding: 20px;
+    text-align: center;
+  }
